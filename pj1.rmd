@@ -1,5 +1,5 @@
 ---
-tTitle: "Project 1-DATA MINING"
+Title: "Project 1-DATA MINING"
 author: "Bidhan Subedi"
 date: "9/3/2021"
 output: html_document
